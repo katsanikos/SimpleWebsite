@@ -1,0 +1,8 @@
+# unnecessary folders
+_vti_pvt/
+**/_vti_cnf/
+videos/
+
+# others
+*.ini
+*.db
